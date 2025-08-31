@@ -1,1 +1,1 @@
-["v0.1-REMADE_ALPHA", False]
+["v0.1-REMADE_ALPHA", True]

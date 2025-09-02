@@ -1,1 +1,1 @@
-["v0.2-ALPHA_HOTFIX", False]
+["v0.3-ALPHA_HOTFIX", True]

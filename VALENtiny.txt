@@ -1,1 +1,1 @@
-["v0.4-BETA_HOTFIX", True]
+["v0.4-BETA_BUGPROOF", True]

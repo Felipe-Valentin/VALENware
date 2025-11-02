@@ -17,7 +17,7 @@ backup_path: "https://github.com/python-VALENtiny/VALENtiny/tree/main/BACKUPS"
 # padrão: `"https://github.com/python-VALENtiny/VALENtiny/tree/main/BACKUPS"`
 
 # Usar compressão algorítmica LZMA, nos backups?
-LZMA_compression = True
+LZMA_compression = False
 # use `True` para "SIM", e `False` para "NÃO".
 
 
@@ -31,3 +31,4 @@ LZMA_compression = True
 version: "0.1-ALPHA"
 # Diretório da nova versão:
 new_version: "https://github.com/Felipe-Valentin/VALENware/releases/download/VALENtiny__v0.6-GAMA/Windows64_VALENtiny-Maintainer.exe"
+

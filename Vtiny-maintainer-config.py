@@ -1,3 +1,9 @@
+############################################
+#                                          #
+#  CONFIGURAÇÕES DA MANUTENÇÃO PROGRAMADA  #
+#                                          #
+############################################
+
 # Tempo de vida útil do banco de dados, em horas:
 database_lifespan: 60
 # padrão: `database_lifespan: 60  # 2 dias e meio`
@@ -15,5 +21,13 @@ LZMA_compression = True
 # use `True` para "SIM", e `False` para "NÃO".
 
 
-# Versão atual deste programa, para o auto-atualizador:
+######################
+#                    #
+#  AUTO-Atualizador  #
+#                    #
+######################
+
+# Versão atual deste programa:
 version: "0.1-ALPHA"
+# Diretório da nova versão:
+new_version: "https://github.com/Felipe-Valentin/VALENware/releases/download/VALENtiny__v0.6-GAMA/Windows64_VALENtiny-Maintainer.exe"

@@ -28,8 +28,9 @@ LZMA_compression = False
 ######################
 
 # Versão atual deste programa:
-version: "TESTING"
+version: "0.1-ALPHA"
 # Diretório da nova versão:
 new_version: "https://github.com/Felipe-Valentin/VALENware/releases/download/VALENtiny__v0.6-GAMA/Windows64_VALENtiny-Maintainer.exe"
+
 
 

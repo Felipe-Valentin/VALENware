@@ -31,5 +31,3 @@ LZMA_compression = False
 version: "0.4-ALPHA"
 # Diretório da nova versão:
 new_version: "https://github.com/Felipe-Valentin/VALENware/releases/download/VALENtiny__v0.6-GAMA/Windows64_VALENtiny-Maintainer.exe"
-
-
